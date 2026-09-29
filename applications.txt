@@ -1,0 +1,5 @@
+101|Deloitte|Analyst|Interview|29-09-2026|High
+102|HPE|Software Engineer|OA|28-09-2026|Medium
+103|Amazon|SDE|Applied|27-09-2026|High
+104|Apple|Software Engineer|OA|26-09-2026|High
+105|Infosys|Software Engineer|Applied|30-09-2026|Medium
