@@ -32,7 +32,6 @@ The project demonstrates practical implementation of **Object-Oriented Programmi
 ## Technologies Used
 
 - C++
-- C++17
 - Object-Oriented Programming
 - STL (`vector`, `map`, `algorithm`)
 - File Handling
